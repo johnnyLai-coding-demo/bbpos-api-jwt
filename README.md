@@ -25,6 +25,12 @@ java -jar api-jwt-0.0.1-SNAPSHOT.jar
 
 --------------------------------------------
 
+postman collection: bbpos-api-jwt.postman_collection.json
+
+For API "/api/test/user" - Please re-generate the token by API "/api/auth/login"
+
+--------------------------------------------
+
 Future improvement
 
 - implement quota in all public APIs
